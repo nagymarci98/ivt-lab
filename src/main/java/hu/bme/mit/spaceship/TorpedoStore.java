@@ -13,6 +13,7 @@ public class TorpedoStore {
 
   private int torpedoCount = 0;
 
+  // itt a enmtudom milyen fuggveny
   public TorpedoStore(int numberOfTorpedos) {
     this.torpedoCount = numberOfTorpedos;
 
